@@ -23,6 +23,7 @@ jobs:
         USE_SSH: true
         GIT_USER: retzero
       run: |
+        cd website
         git config --global user.email "ticce@naver.com"
         git config --global user.name "Hyokeun Jeon"
         yarn install --frozen-lockfile
