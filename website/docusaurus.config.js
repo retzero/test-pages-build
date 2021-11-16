@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://retzero.github.io',
-  baseUrl: '/',
+  url: 'https://retzero.github.io/test-pages-build/',
+  baseUrl: '/test-pages-build/',
   trailingSlash: false,
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
